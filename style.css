@@ -1,0 +1,16 @@
+nav{
+  padding: 20px 200px !important;
+}
+
+#brand-name{
+  font-family: 'Brush Script MT', cursive;
+}
+
+#section-main {
+  margin: 50px 200px;
+  padding: 10px;
+}
+
+#section-main h1{
+  text-align: center;
+}
